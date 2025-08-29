@@ -130,3 +130,6 @@ dist
 .pnp.*
 Pato Donald ( Solo ).mov
 *.mts
+*.png
+*.jpg
+*.webp
